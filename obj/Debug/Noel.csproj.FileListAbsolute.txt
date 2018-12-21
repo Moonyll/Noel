@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\Exos\Noel\Noel\Noel\bin\Debug\Noel.exe.config
+C:\Users\Dell\Documents\Exos\Noel\Noel\Noel\bin\Debug\Noel.exe
+C:\Users\Dell\Documents\Exos\Noel\Noel\Noel\bin\Debug\Noel.pdb
+C:\Users\Dell\Documents\Exos\Noel\Noel\Noel\obj\Debug\Noel.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Exos\Noel\Noel\Noel\obj\Debug\Noel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\Noel\Noel\Noel\obj\Debug\Noel.exe
+C:\Users\Dell\Documents\Exos\Noel\Noel\Noel\obj\Debug\Noel.pdb
